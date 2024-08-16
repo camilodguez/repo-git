@@ -1,7 +1,4 @@
-print("Hola Mundo!")
+nombre = input("Ingrese su nombre: ")
 
-nombre = "Lucas"
-apellido = "Datos"
-
-saludo = nombre, apellido
-print(f"Hola {nombre} {apellido}")
+print(f"Bienvendio {nombre} al curso de Dalto en git")
+print("Pongase comodo y disfrute del video!")
